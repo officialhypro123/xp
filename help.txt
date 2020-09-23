@@ -1,0 +1,9 @@
+******Prefix is !
+Commands:
+
+ban**: Bans a user for obvious reasons.
+kick**: Kicks a user for obvious reasons.
+warn**: Warns a member.
+
+
+   *Bot made by Seth#7796*
